@@ -20,7 +20,7 @@ This repository contains a **Form Validation** project built using HTML, CSS, an
 To use this project, follow these steps:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-github-username/form-validation-project.git
+   git clone https://github.com/princesahanipks/Form-Validation.git
    ```
 2. Open the `index.html` file in a web browser.
 3. Modify as needed and test form validation.
